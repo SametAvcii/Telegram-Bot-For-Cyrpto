@@ -1,4 +1,4 @@
-API_KEY ='5224664695:AAEfR63tW9fWxAOVeYSu-OWlweEw7WA-LCI'
+API_KEY ='Your API Key'
 coin_price="""
 
  Hoşgeldiniz...
