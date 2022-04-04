@@ -1,5 +1,7 @@
 # Telegram-Bot-For-Cyrpto
 
+## Why should we use this bot
+
 This project gives you easy access to instant price, total amount, total volume and dominance of the most known coins.
 
 It gives you easy access to the foundation years, countries, 24-hour btc volumes, trust rankings of the most known exchanges.
@@ -8,8 +10,7 @@ It gives you access to the futures trading volumes of the exchanges.
 
 It allows you to easily access information such as the total number of coins owned by companies, the number of exchanges, and the amount of coins.
 
-Steps For Run This Bot:
-<img src="https://user-images.githubusercontent.com/42752883/161564736-cd24420b-416f-4b48-a0c3-ea2ccfae0b54.jpeg" alt="drawing" width="400"/>
+## Steps For Run This Bot:
 
 - First you need to create your own bot from botfather channel in telegram and get Api Key.
 - You can change API_KEY in config.py with your api key
@@ -18,6 +19,3 @@ Steps For Run This Bot:
 - You can see all the commands
 
 Used Api: Coingecko, Botfather
-
-<img src="https://user-images.githubusercontent.com/42752883/161566355-6ff391aa-514e-48a4-ada6-1b62e9837aa9.png" alt="drawing" width="400"/>
-
