@@ -2,9 +2,6 @@
 
 This project gives you easy access to instant price, total amount, total volume and dominance of the most known coins.
 
-![istockphoto-1034363382-612x612](https://user-images.githubusercontent.com/42752883/161561434-d0ed8e9c-359e-4429-bd4e-ba8803dcf755.jpg)
-
-
 It gives you easy access to the foundation years, countries, 24-hour btc volumes, trust rankings of the most known exchanges.
 
 ![crypto-exchange](https://user-images.githubusercontent.com/42752883/161561628-2027e341-5a0f-4b38-8cd7-ea6f85955df7.jpg)
