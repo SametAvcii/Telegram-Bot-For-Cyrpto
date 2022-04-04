@@ -1,16 +1,9 @@
-from tracemalloc import start
-from turtle import clear
 from exchange import *
 from coins import *
 import config
 from categories import *
 from blockchainNetwork import *
 from asyncio import shield
-from distutils.errors import LinkError
-from email import message
-from email.mime import image
-from itertools import count
-from mimetypes import common_types
 from posixpath import split
 import config
 from telegram.ext import *
@@ -18,20 +11,9 @@ import responses as R
 import requests
 
 
-#import json
-
-print("bot started...")
-
-helpcommands = " Type : /yorkie, /shill, /chart , /buy, /contract or /helpYorkie to see this message again"
-
-
 def start_command(update, context):
 
     update.message.reply_text(config.coin_price)
-
-
-def help_command(update, context):
-    update.message.reply_text(helpcommands)
 
 
 def hello(update, context):
