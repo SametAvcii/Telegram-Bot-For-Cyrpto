@@ -20,11 +20,11 @@ It allows you to easily access information such as the total number of coins own
 
 ## Use Tools
 
-# Used Api: 
+### Used Api: 
  -Coingecko,
  -Botfather
 
-# Used Libary: 
+### Used Libary: 
  -Telegram.ext,
  -Requests,
  -Responses
