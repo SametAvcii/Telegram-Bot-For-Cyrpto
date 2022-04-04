@@ -4,7 +4,7 @@ This project gives you easy access to instant price, total amount, total volume 
 
 It gives you easy access to the foundation years, countries, 24-hour btc volumes, trust rankings of the most known exchanges.
 
-![crypto-exchange](https://user-images.githubusercontent.com/42752883/161561628-2027e341-5a0f-4b38-8cd7-ea6f85955df7.jpg)
+<img src="https://user-images.githubusercontent.com/42752883/161561628-2027e341-5a0f-4b38-8cd7-ea6f85955df7.jpg" alt="drawing" width="200"/>
 
 
 It gives you access to the futures trading volumes of the exchanges.
