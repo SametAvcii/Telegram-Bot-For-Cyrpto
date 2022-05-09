@@ -1,5 +1,5 @@
 API_KEY ='Your API Key'
-coin_price="""
+first_message="""
 
  Hoşgeldiniz...
  
