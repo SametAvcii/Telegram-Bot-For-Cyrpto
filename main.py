@@ -13,7 +13,7 @@ import requests
 
 def start_command(update, context):
 
-    update.message.reply_text(config.coin_price)
+    update.message.reply_text(config.first_message)
 
 
 def hello(update, context):
